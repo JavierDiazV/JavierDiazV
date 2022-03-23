@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavierDiazV an Industrial Engineer from Chile, currently looking for a Job opportunity as a Data Analyst, local, remote or hopefully in Amsterdam.  
 I am a data nerd searching for a data focused job, also I am a detailed and goal oriented professional with +8 years of experience in data analytics 
-applied to Performance Control, Planning, Forecasting and Team management, navigating through Sales, call center and CRM  information, sometimes from Excel sheets, 
+applied to Performance Control, Planning, Forecasting and Team management, navigating through Sales, Call Center and CRM  information, sometimes from Excel sheets, 
 mostly from SQL servers and even a couple of times from a pile of paper.  
 I have a passion for solving complex problems and for transforming data and presenting it. I love puzzles and I feel that every data analytics project is like one.  
 I have another passion, I also love coffee culture, I had the opportunity of being an entrepreneur opening my first Specialty Coffee Shop, so I had to learn everything 
