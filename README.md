@@ -13,7 +13,7 @@ Also I love hearing and sharing life stories, hobbies, passion projects and pop 
 - 👀 I’m interested in mainly SQL, PowerBI and R and everything related to data analytics.
 - 🌱 I’m currently learning R and Pyhton will be next.
 - 💞️ I’m looking to collaborate on data related projects.
-- 📫 How to reach me my email is jdiaz.villagran@gmail.com and my linkedin is www.linkedin.com/in/javier-rodrigo-díaz-villagrán-3767317.
+- 📫 How to reach me my email is jdiaz.villagran@gmail.com and my linkedin is https://www.linkedin.com/in/javier-rodrigo-d%C3%ADaz-villagr%C3%A1n-37673178/.
 
 <!---
 JavierDiazV/JavierDiazV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
